@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1802
+slug  : the-money-multiplier
+seal  : c057bcf1fb073c84b71d32a172d004276010e56667e240d22794d274305bc654
+prev  : a1c2823e2e0686640fdcf68896f2036847e7e1052d144065c1fef25cbc62bf9e
+link  : aa8b583f52b96d42579db20197261e6bed812e445cac24661fdcafae730412a1
+head  : aa8b583f52b96d42579db20197261e6bed812e445cac24661fdcafae730412a1
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
